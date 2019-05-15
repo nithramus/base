@@ -1,6 +1,7 @@
 [submodule "submodule1"]
 	path = submodule1
 	url = git@github.com:nithramus/submodule1.git
+	branch = dev
 [submodule "submodule2"]
 	path = submodule2
 	url = git@github.com:nithramus/submodule2.git
